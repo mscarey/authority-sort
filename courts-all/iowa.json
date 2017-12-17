@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/iowa/",
+  "date_modified": "2014-08-01T18:44:06.700000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 360.9,
+  "citation_string": "Iowa",
+  "short_name": "Supreme Court of Iowa",
+  "full_name": "Supreme Court of Iowa",
+  "url": "http://www.iowacourts.gov/supreme_court/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "S"
+}

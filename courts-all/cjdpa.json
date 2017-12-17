@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/cjdpa/",
+  "date_modified": "2013-10-30T06:08:47.628000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 367.26,
+  "citation_string": "Ct. Jud. Disc. Pa",
+  "short_name": "Judicial Discipline of Pennsylvania",
+  "full_name": "Court of Judicial Discipline of Pennsylvania",
+  "url": "http://www.pacourts.us/courts/court-of-judicial-discipline‎",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SS"
+}

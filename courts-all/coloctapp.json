@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/coloctapp/",
+  "date_modified": "2014-07-11T20:49:49.197000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 351.0,
+  "citation_string": "Colo. Ct. App.",
+  "short_name": "Colorado Court of Appeals",
+  "full_name": "Colorado Court of Appeals",
+  "url": "http://www.courts.state.co.us/Courts/Court_Of_Appeals/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

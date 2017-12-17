@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/tenncrimapp/",
+  "date_modified": "2013-09-09T16:30:08Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 367.8,
+  "citation_string": "Tenn. Crim. App.",
+  "short_name": "Court of Criminal Appeals of Tennessee",
+  "full_name": "Court of Criminal Appeals of Tennessee",
+  "url": "http://www.tsc.state.tn.us/courts/court-criminal-appeals",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

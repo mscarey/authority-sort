@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/iad/",
+  "date_modified": "2017-03-07T23:05:03.064032Z",
+  "in_use": false,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 214.5,
+  "citation_string": "",
+  "short_name": "D. Iowa",
+  "full_name": "District Court, D. Iowa",
+  "url": "",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

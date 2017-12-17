@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/cusc/",
+  "date_modified": "2014-06-19T00:34:16.654000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 114.1,
+  "citation_string": "Cust. Ct.",
+  "short_name": "U.S. Customs Court",
+  "full_name": "United States Customs Court",
+  "url": "http://www.fjc.gov/history/home.nsf/page/courts_special_cc_bib.html",
+  "start_date": "1926-01-01",
+  "end_date": "1980-01-01",
+  "jurisdiction": "FS"
+}

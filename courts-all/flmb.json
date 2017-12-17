@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/flmb/",
+  "date_modified": "2013-08-15T00:05:00Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 176.9,
+  "citation_string": "Bankr. M.D. Fla.",
+  "short_name": "M.D. Florida",
+  "full_name": "United States Bankruptcy Court, M.D. Florida",
+  "url": "http://www.flmb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

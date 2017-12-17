@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/pamd/",
+  "date_modified": "2013-10-22T15:25:27.235000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 247.95,
+  "citation_string": "M.D. Penn.",
+  "short_name": "M.D. Pennsylvania",
+  "full_name": "District Court, M.D. Pennsylvania",
+  "url": "http://www.pamd.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

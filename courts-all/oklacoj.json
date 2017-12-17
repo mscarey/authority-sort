@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/oklacoj/",
+  "date_modified": "2013-09-07T20:16:00Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 366.9998,
+  "citation_string": "Okla. C.O.J.",
+  "short_name": "Court on the Judiciary of Oklahoma",
+  "full_name": "Court on the Judiciary of Oklahoma",
+  "url": "http://en.wikipedia.org/wiki/Oklahoma_Court_on_the_Judiciary",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SS"
+}

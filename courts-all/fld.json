@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/fld/",
+  "date_modified": "2017-03-07T23:03:48.529446Z",
+  "in_use": false,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 208.49,
+  "citation_string": "",
+  "short_name": "D. Florida",
+  "full_name": "District Court, D. Florida",
+  "url": "",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

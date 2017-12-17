@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/ncmd/",
+  "date_modified": "2013-08-15T16:24:58Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 245.15,
+  "citation_string": "M.D.N.C.",
+  "short_name": "M.D. North Carolina",
+  "full_name": "District Court, M.D. North Carolina",
+  "url": "http://www.ncmd.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

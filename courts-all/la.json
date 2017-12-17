@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/la/",
+  "date_modified": "2014-07-17T14:08:09.249000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 362.5,
+  "citation_string": "La.",
+  "short_name": "Supreme Court of Louisiana",
+  "full_name": "Supreme Court of Louisiana",
+  "url": "http://www.lasc.org/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "S"
+}

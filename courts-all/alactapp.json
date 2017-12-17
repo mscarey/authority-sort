@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/alactapp/",
+  "date_modified": "2013-10-16T19:06:37.371000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 306.0,
+  "citation_string": "Ala. Ct. App.",
+  "short_name": "Alabama Court of Appeals",
+  "full_name": "Alabama Court of Appeals",
+  "url": "http://judicial.alabama.gov/",
+  "start_date": null,
+  "end_date": "1969-01-01",
+  "jurisdiction": "SA"
+}

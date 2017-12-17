@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/washctapp/",
+  "date_modified": "2013-08-14T22:42:46Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 385.0,
+  "citation_string": "Wash. Ct. App.",
+  "short_name": "Court of Appeals of Washington",
+  "full_name": "Court of Appeals of Washington",
+  "url": "https://www.courts.wa.gov/appellate_trial_courts/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

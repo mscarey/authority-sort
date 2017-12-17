@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/utd/",
+  "date_modified": "2016-09-08T19:00:07.979979Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 251.1,
+  "citation_string": "D. Utah",
+  "short_name": "D. Utah",
+  "full_name": "District Court, D. Utah",
+  "url": "http://www.utd.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

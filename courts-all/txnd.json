@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/txnd/",
+  "date_modified": "2013-08-14T22:23:53Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 250.1,
+  "citation_string": "N.D. Tex.",
+  "short_name": "N.D. Texas",
+  "full_name": "District Court, N.D. Texas",
+  "url": "http://www.txnd.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

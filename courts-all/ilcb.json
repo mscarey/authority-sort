@@ -1,0 +1,16 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/ilcb/",
+  "pacer_court_id": 64,
+  "date_modified": "2017-08-14T18:03:49.251564Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 182.0,
+  "citation_string": "Bankr. C.D. Ill.",
+  "short_name": "C.D. Illinois",
+  "full_name": "United States Bankruptcy Court, C.D. Illinois",
+  "url": "http://www.ilcb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

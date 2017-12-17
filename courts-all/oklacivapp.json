@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/oklacivapp/",
+  "date_modified": "2014-07-11T20:30:09.947000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 366.9995,
+  "citation_string": "Okla. Civ. App.",
+  "short_name": "Court of Civil Appeals of Oklahoma",
+  "full_name": "Court of Civil Appeals of Oklahoma",
+  "url": "http://www.oscn.net/oscn/schome/civilappeals.htm",
+  "start_date": "1908-01-01",
+  "end_date": null,
+  "jurisdiction": "SA"
+}

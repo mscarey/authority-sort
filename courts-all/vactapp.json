@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/vactapp/",
+  "date_modified": "2013-09-09T17:05:43Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 369.5,
+  "citation_string": "Va. Ct. App.",
+  "short_name": "Court of Appeals of Virginia",
+  "full_name": "Court of Appeals of Virginia",
+  "url": "http://www.courts.state.va.us/courts/cav/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/cal/",
+  "date_modified": "2013-08-14T16:46:30Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 350.0,
+  "citation_string": "Cal.",
+  "short_name": "California Supreme Court",
+  "full_name": "California Supreme Court",
+  "url": "http://www.courts.ca.gov/supremecourt.htm",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "S"
+}

@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/ncwb/",
+  "date_modified": "2013-08-15T16:47:21Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 190.45,
+  "citation_string": "Bankr. W.D.N.C.",
+  "short_name": "W.D. North Carolina",
+  "full_name": "United States Bankruptcy Court, W.D. North Carolina",
+  "url": "http://www.ncwb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

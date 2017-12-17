@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/dcb/",
+  "date_modified": "2013-08-15T00:00:41Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 160.0,
+  "citation_string": "Bankr. D.C.",
+  "short_name": "District of Columbia",
+  "full_name": "United States Bankruptcy Court, District of Columbia",
+  "url": "http://www.dcb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

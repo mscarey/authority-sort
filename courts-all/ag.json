@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/ag/",
+  "date_modified": "2017-01-27T22:35:06.131210Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 113.04,
+  "citation_string": "Op. Att’y Gen.",
+  "short_name": "Attorneys General",
+  "full_name": "United States Attorneys General",
+  "url": "https://www.justice.gov/olc/opinions-main",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FS"
+}

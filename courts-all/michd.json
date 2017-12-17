@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/michd/",
+  "date_modified": "2017-03-07T23:09:13.812273Z",
+  "in_use": false,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 240.55,
+  "citation_string": "",
+  "short_name": "D. Michigan",
+  "full_name": "District Court, D. Michigan",
+  "url": "",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

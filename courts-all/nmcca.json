@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/nmcca/",
+  "date_modified": "2014-09-19T01:48:18.061000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 114.996,
+  "citation_string": "N.M.C.C.A.",
+  "short_name": "Navy-Marine Corps Court of Criminal Appeals",
+  "full_name": "Navy-Marine Corps Court of Criminal Appeals",
+  "url": "http://www.jag.navy.mil/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FS"
+}

@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/tax/",
+  "date_modified": "2013-08-14T22:20:02Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 114.2,
+  "citation_string": "Tax Ct.",
+  "short_name": "U.S. Tax Court",
+  "full_name": "United States Tax Court",
+  "url": "http://www.ustaxcourt.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FS"
+}

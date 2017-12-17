@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/wvsd/",
+  "date_modified": "2017-03-16T18:51:45.638841Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 295.0,
+  "citation_string": "S.D.W. Va",
+  "short_name": "S.D. West Virginia",
+  "full_name": "District Court, S.D. West Virginia",
+  "url": "http://www.wvsd.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

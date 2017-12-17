@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/cod/",
+  "date_modified": "2013-08-14T22:23:53Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 206.0,
+  "citation_string": "D. Colo.",
+  "short_name": "D. Colorado",
+  "full_name": "District Court, D. Colorado",
+  "url": "http://www.cod.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

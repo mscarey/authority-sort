@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/wvad/",
+  "date_modified": "2017-03-07T23:13:05.967834Z",
+  "in_use": false,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 293.0,
+  "citation_string": "",
+  "short_name": "D. West Virginia",
+  "full_name": "District Court, D. West Virginia",
+  "url": "",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

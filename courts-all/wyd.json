@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/wyd/",
+  "date_modified": "2013-08-14T22:23:54Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 299.0,
+  "citation_string": "D. Wyo.",
+  "short_name": "D. Wyoming",
+  "full_name": "District Court, D. Wyoming",
+  "url": "http://www.wyd.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

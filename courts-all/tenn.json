@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/tenn/",
+  "date_modified": "2016-09-08T20:39:03.982890Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 367.6,
+  "citation_string": "Tenn.",
+  "short_name": "Tennessee Supreme Court",
+  "full_name": "Tennessee Supreme Court",
+  "url": "https://www.tncourts.gov/courts/supreme-court",
+  "start_date": "1790-01-01",
+  "end_date": null,
+  "jurisdiction": "S"
+}

@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/wied/",
+  "date_modified": "2013-10-22T15:57:56.363000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 297.0,
+  "citation_string": "D. Wis.",
+  "short_name": "E.D. Wisconsin",
+  "full_name": "District Court, E.D. Wisconsin",
+  "url": "http://www.wied.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

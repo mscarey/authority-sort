@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/gud/",
+  "date_modified": "2013-08-20T00:14:40Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 299.3,
+  "citation_string": "D. Guam",
+  "short_name": "D. Guam",
+  "full_name": "District Court, D. Guam",
+  "url": "http://www.gud.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/asbca/",
+  "date_modified": "2014-09-19T01:15:36.995000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 113.1,
+  "citation_string": "A.S.B.C.A.",
+  "short_name": "Armed Services Board of Contract Appeals",
+  "full_name": "Armed Services Board of Contract Appeals",
+  "url": "http://www.asbca.mil/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FS"
+}

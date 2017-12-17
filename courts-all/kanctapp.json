@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/kanctapp/",
+  "date_modified": "2014-08-01T19:03:27.005000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 362.2,
+  "citation_string": "Kan. Ct. App.",
+  "short_name": "Court of Appeals of Kansas",
+  "full_name": "Court of Appeals of Kansas",
+  "url": "http://www.kscourts.org/kansas-courts/court-of-appeals/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

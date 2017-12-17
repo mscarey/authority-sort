@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/calctapp/",
+  "date_modified": "2014-05-23T15:31:20.590000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 350.1,
+  "citation_string": "Cal. Ct. App.",
+  "short_name": "California Court of Appeal",
+  "full_name": "California Court of Appeal",
+  "url": "http://www.courts.ca.gov/courtsofappeal.htm",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

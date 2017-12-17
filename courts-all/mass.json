@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/mass/",
+  "date_modified": "2014-07-17T14:48:51.797000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 362.99,
+  "citation_string": "Mass.",
+  "short_name": "Massachusetts Supreme Judicial Court",
+  "full_name": "Massachusetts Supreme Judicial Court",
+  "url": "http://www.mass.gov/courts/sjc/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "S"
+}

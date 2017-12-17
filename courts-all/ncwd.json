@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/ncwd/",
+  "date_modified": "2013-10-22T15:54:24.087000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 245.2,
+  "citation_string": "W.D.N.C.",
+  "short_name": "W.D. North Carolina",
+  "full_name": "District Court, W.D. North Carolina",
+  "url": "http://www.ncwd.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

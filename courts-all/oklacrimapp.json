@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/oklacrimapp/",
+  "date_modified": "2014-07-11T20:30:00.133000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 366.9996,
+  "citation_string": "Okla. Crim. App.",
+  "short_name": "Court of Criminal Appeals of Oklahoma",
+  "full_name": "Court of Criminal Appeals of Oklahoma",
+  "url": "http://www.okcca.net/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

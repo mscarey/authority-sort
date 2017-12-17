@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/prb/",
+  "date_modified": "2013-08-15T18:07:43Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 199.7,
+  "citation_string": "Bankr. D.P.R.",
+  "short_name": "D. Puerto Rico",
+  "full_name": "United States Bankruptcy Court, D. Puerto Rico",
+  "url": "http://www.prb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

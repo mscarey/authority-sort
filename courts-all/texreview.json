@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/texreview/",
+  "date_modified": "2013-10-30T07:11:37.284000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 368.4,
+  "citation_string": "Tex. Rev.",
+  "short_name": "Texas Special Court of Review",
+  "full_name": "Texas Special Court of Review",
+  "url": "http://www.scjc.state.tx.us/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SS"
+}

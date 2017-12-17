@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/wvnd/",
+  "date_modified": "2013-10-22T15:57:29.828000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 294.0,
+  "citation_string": "N.D.W. Va.",
+  "short_name": "N.D. West Virginia",
+  "full_name": "District Court, N.D. West Virginia",
+  "url": "http://www.wvnd.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

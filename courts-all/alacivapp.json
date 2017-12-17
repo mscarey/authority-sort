@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/alacivapp/",
+  "date_modified": "2013-09-09T01:36:11Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 311.0,
+  "citation_string": "Ala. Civ. App.",
+  "short_name": "Court of Civil Appeals of Alabama",
+  "full_name": "Court of Civil Appeals of Alabama",
+  "url": "http://judicial.alabama.gov/civil.cfm",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

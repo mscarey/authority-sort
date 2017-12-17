@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/minnag/",
+  "date_modified": "2017-02-01T17:56:35.255825Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 365.4,
+  "citation_string": "Minn. Att'y Gen.",
+  "short_name": "Minnesota Attorney General Reports",
+  "full_name": "Minnesota Attorney General Reports",
+  "url": "http://www.ag.state.mn.us/office/opinions/DATE.asp",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SAG"
+}

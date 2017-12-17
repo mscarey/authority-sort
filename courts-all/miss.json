@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/miss/",
+  "date_modified": "2013-08-14T16:46:30Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 366.0,
+  "citation_string": "Miss.",
+  "short_name": "Mississippi Supreme Court",
+  "full_name": "Mississippi Supreme Court",
+  "url": "http://courts.ms.gov/appellate_courts/sc/sc.html",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "S"
+}

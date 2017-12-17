@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/nysd/",
+  "date_modified": "2013-10-22T15:54:04.692000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 245.0,
+  "citation_string": "S.D.N.Y.",
+  "short_name": "S.D. New York",
+  "full_name": "District Court, S.D. New York",
+  "url": "http://www.nysd.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

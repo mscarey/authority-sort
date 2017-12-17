@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/bap1/",
+  "date_modified": "2013-10-25T01:27:23.371000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 150.0,
+  "citation_string": "1st Cir. BAP",
+  "short_name": "First Circuit",
+  "full_name": "Bankruptcy Appellate Panel of the First Circuit",
+  "url": "http://www.bap1.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FBP"
+}

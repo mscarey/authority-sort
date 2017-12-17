@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/nebraskab/",
+  "date_modified": "2013-08-15T05:49:06Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 189.61,
+  "citation_string": "Bankr. D. Neb.",
+  "short_name": "D. Nebraska",
+  "full_name": "United States Bankruptcy Court, D. Nebraska",
+  "url": "http://www.neb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

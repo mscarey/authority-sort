@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/iowactapp/",
+  "date_modified": "2014-08-01T18:44:13.293000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 361.0,
+  "citation_string": "Iowa Ct. App.",
+  "short_name": "Court of Appeals of Iowa",
+  "full_name": "Court of Appeals of Iowa",
+  "url": "http://www.iowacourts.gov/court_of_appeals/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

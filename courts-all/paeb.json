@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/paeb/",
+  "date_modified": "2013-08-15T00:25:16Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 193.8,
+  "citation_string": "Bankr. E.D. Pa.",
+  "short_name": "E.D. Pennsylvania",
+  "full_name": "United States Bankruptcy Court, E.D. Pennsylvania",
+  "url": "http://www.paeb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

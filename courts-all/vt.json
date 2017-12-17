@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/vt/",
+  "date_modified": "2013-09-09T17:24:51Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 369.2,
+  "citation_string": "Vt.",
+  "short_name": "Supreme Court of Vermont",
+  "full_name": "Supreme Court of Vermont",
+  "url": "http://www.vermontjudiciary.org/gtc/supreme/default.aspx",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "S"
+}

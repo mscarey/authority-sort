@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/laed/",
+  "date_modified": "2013-08-14T22:23:53Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 231.0,
+  "citation_string": "E.D. La.",
+  "short_name": "E.D. Louisiana.",
+  "full_name": "District Court, E.D. Louisiana.",
+  "url": "http://www.laed.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/nynb/",
+  "date_modified": "2013-08-15T05:26:47Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 190.05,
+  "citation_string": "Bankr. N.D.N.Y.",
+  "short_name": "N.D. New York",
+  "full_name": "United States Bankruptcy Court, N.D. New York",
+  "url": "http://www.nynb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

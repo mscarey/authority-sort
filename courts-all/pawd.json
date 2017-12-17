@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/pawd/",
+  "date_modified": "2013-08-14T22:23:53Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 248.0,
+  "citation_string": "W.D. Pa.",
+  "short_name": "W.D. Pennsylvania",
+  "full_name": "District Court, W.D. Pennsylvania",
+  "url": "http://www.pawd.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

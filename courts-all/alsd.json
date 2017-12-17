@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/alsd/",
+  "date_modified": "2013-10-22T15:47:52.502000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 202.0,
+  "citation_string": "S.D. Ala.",
+  "short_name": "S.D. Alabama",
+  "full_name": "District Court, S.D. Alabama",
+  "url": "http://www.als.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

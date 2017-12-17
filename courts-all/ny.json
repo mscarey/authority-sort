@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/ny/",
+  "date_modified": "2014-08-21T22:51:56.551000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 366.96,
+  "citation_string": "NY",
+  "short_name": "New York Court of Appeals",
+  "full_name": "New York Court of Appeals",
+  "url": "http://www.nycourts.gov/ctapps/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "S"
+}

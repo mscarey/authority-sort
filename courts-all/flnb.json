@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/flnb/",
+  "date_modified": "2013-08-15T00:44:44Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 176.95,
+  "citation_string": "Bankr. N.D. Fla.",
+  "short_name": "N.D. Florida",
+  "full_name": "United States Bankruptcy Court, N.D. Florida",
+  "url": "http://www.flnb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

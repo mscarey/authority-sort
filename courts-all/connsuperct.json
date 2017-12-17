@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/connsuperct/",
+  "date_modified": "2013-10-16T22:03:58.049000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 351.7,
+  "citation_string": "Conn. Super. Ct.",
+  "short_name": "Connecticut Superior Court",
+  "full_name": "Connecticut Superior Court",
+  "url": "http://www.jud.ct.gov/external/super/‎",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

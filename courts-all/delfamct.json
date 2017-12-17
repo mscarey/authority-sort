@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/delfamct/",
+  "date_modified": "2013-10-16T21:32:24.279000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 353.59,
+  "citation_string": "Del. Fm. Ct.",
+  "short_name": "Delaware Family Court",
+  "full_name": "Delaware Family Court",
+  "url": "http://courts.delaware.gov/family/‎",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SS"
+}

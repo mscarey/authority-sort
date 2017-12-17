@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/or/",
+  "date_modified": "2013-08-14T16:46:30Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 367.0,
+  "citation_string": "Or.",
+  "short_name": "Oregon Supreme Court",
+  "full_name": "Oregon Supreme Court",
+  "url": "http://www.publications.ojd.state.or.us/Pages/OpinionsSC.aspx",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "S"
+}

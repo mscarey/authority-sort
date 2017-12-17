@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/nyappdiv/",
+  "date_modified": "2014-08-08T19:52:34.517000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 366.965,
+  "citation_string": "N.Y. App. Div.",
+  "short_name": "Appellate Division of the Supreme Court of New York",
+  "full_name": "Appellate Division of the Supreme Court of the State of New York",
+  "url": "http://www.courts.state.ny.us/courts/appellatedivisions.shtml‎",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

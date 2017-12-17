@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/masssuperct/",
+  "date_modified": "2016-04-21T18:46:47.734439Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 364.0,
+  "citation_string": "Mass. Super. Ct.",
+  "short_name": "Massachusetts Superior Court",
+  "full_name": "Massachusetts Superior Court",
+  "url": "http://www.mass.gov/courts/court-info/trial-court/sc/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

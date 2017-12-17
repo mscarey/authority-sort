@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/hib/",
+  "date_modified": "2013-08-15T16:30:24Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 180.05,
+  "citation_string": "Bankr. D. Haw.",
+  "short_name": "D. Hawaii",
+  "full_name": "United States Bankruptcy Court, D. Hawaii",
+  "url": "http://www.hib.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

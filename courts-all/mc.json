@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/mc/",
+  "date_modified": "2014-11-24T17:05:17.768000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 114.99,
+  "citation_string": "M.C.",
+  "short_name": "Military Commission Review",
+  "full_name": "United States Court of Military Commission Review",
+  "url": "http://www.mc.mil/cases/USCourtofMilitaryCommissionReview.aspx",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FS"
+}

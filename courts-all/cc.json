@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/cc/",
+  "date_modified": "2013-10-18T00:47:36.613000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 113.5,
+  "citation_string": "Ct. Cl.",
+  "short_name": "Court of Claims",
+  "full_name": "United States Court of Claims",
+  "url": "http://www.fjc.gov/history/home.nsf/page/courts_special_coc.html",
+  "start_date": "1855-02-24",
+  "end_date": "1992-10-29",
+  "jurisdiction": "FS"
+}

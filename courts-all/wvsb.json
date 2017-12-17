@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/wvsb/",
+  "date_modified": "2013-08-15T17:08:04Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 198.9,
+  "citation_string": "Bankr. S.D.W. Va.",
+  "short_name": "S.D. West Virginia",
+  "full_name": "United States Bankruptcy Court, S.D. West Virginia",
+  "url": "http://www.wvsb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

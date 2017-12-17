@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/missctapp/",
+  "date_modified": "2013-09-09T06:27:05Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 366.01,
+  "citation_string": "Miss. Ct. App.",
+  "short_name": "Court of Appeals of Mississippi",
+  "full_name": "Court of Appeals of Mississippi",
+  "url": "http://courts.ms.gov/appellate_courts/coa/coa.html",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

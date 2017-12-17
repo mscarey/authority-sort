@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/mab/",
+  "date_modified": "2013-08-14T23:41:46Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 189.0,
+  "citation_string": "Bankr. D. Mass.",
+  "short_name": "D. Massachusetts",
+  "full_name": "United States Bankruptcy Court, D. Massachusetts",
+  "url": "http://www.mab.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

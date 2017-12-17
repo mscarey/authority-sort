@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/canb/",
+  "date_modified": "2013-08-15T00:30:39Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 158.1,
+  "citation_string": "Bankr. N.D. Cal.",
+  "short_name": "N.D. California",
+  "full_name": "United States Bankruptcy Court, N.D. California",
+  "url": "http://www.canb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/caed/",
+  "date_modified": "2014-06-13T18:53:09.142000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 205.06,
+  "citation_string": "E.D. Cal.",
+  "short_name": "E.D. California",
+  "full_name": "District Court, E.D. California",
+  "url": "http://www.caed.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

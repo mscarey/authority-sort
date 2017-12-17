@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/orb/",
+  "date_modified": "2013-08-15T01:13:53Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 193.7,
+  "citation_string": "Bankr. D. Or.",
+  "short_name": "D. Oregon",
+  "full_name": "United States Bankruptcy Court, D. Oregon",
+  "url": "http://www.orb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

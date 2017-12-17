@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/azd/",
+  "date_modified": "2013-08-14T22:23:53Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 203.0,
+  "citation_string": "D. Ariz.",
+  "short_name": "D. Arizona",
+  "full_name": "District Court, D. Arizona",
+  "url": "http://www.azd.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

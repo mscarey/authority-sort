@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/lactapp/",
+  "date_modified": "2013-10-16T18:52:46.228000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 362.51,
+  "citation_string": "La. Ct. App.",
+  "short_name": "Louisiana Court of Appeal",
+  "full_name": "Louisiana Court of Appeal",
+  "url": "http://louisiana.gov/Government/Judicial_Branch/#courtsofappeal",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

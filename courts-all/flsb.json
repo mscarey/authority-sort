@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/flsb/",
+  "date_modified": "2013-08-14T23:54:25Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 177.0,
+  "citation_string": "Bankr. S.D. Florida",
+  "short_name": "S.D. Florida",
+  "full_name": "United States Bankruptcy Court, S.D. Florida.",
+  "url": "http://www.flsb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

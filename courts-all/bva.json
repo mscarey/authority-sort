@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/bva/",
+  "date_modified": "2014-09-19T01:06:34.973000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 115.1,
+  "citation_string": "Board of Vet. App.",
+  "short_name": "Board of Veterans' Appeals",
+  "full_name": "Board of Veterans' Appeals",
+  "url": "http://www.index.va.gov/search/va/bva_search.jsp",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FS"
+}

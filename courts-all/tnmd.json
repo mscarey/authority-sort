@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/tnmd/",
+  "date_modified": "2013-10-22T15:25:43.332000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 249.7,
+  "citation_string": "M.D. Tenn.",
+  "short_name": "M.D. Tennessee",
+  "full_name": "District Court, M.D. Tennessee",
+  "url": "http://www.tnmd.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FD"
+}

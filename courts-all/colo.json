@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/colo/",
+  "date_modified": "2014-07-11T20:49:42.750000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 350.9,
+  "citation_string": "Colo.",
+  "short_name": "Supreme Court of Colorado",
+  "full_name": "Supreme Court of Colorado",
+  "url": "http://www.coloradosupremecourt.com/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "S"
+}

@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/dc/",
+  "date_modified": "2013-10-16T18:54:09.220000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 353.6,
+  "citation_string": "D.C.",
+  "short_name": "District of Columbia Court of Appeals",
+  "full_name": "District of Columbia Court of Appeals",
+  "url": "http://www.dccourts.gov/internet/appellate/main.jsf",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "S"
+}

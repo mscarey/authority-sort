@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/nyeb/",
+  "date_modified": "2013-08-14T23:38:17Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 190.0,
+  "citation_string": "Bankr. E.D.N.Y.",
+  "short_name": "E.D. New York",
+  "full_name": "United States Bankruptcy Court, E.D. New York",
+  "url": "http://www.nyeb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

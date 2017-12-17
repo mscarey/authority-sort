@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/ga/",
+  "date_modified": "2014-08-01T17:11:53.684000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 355.5,
+  "citation_string": "Ga.",
+  "short_name": "Supreme Court of Georgia",
+  "full_name": "Supreme Court of Georgia",
+  "url": "http://www.gasupreme.us/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "S"
+}

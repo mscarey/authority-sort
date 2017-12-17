@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/illappct/",
+  "date_modified": "2013-08-14T22:42:02Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 359.6,
+  "citation_string": "Ill. App. Ct.",
+  "short_name": "Appellate Court of Illinois",
+  "full_name": "Appellate Court of Illinois",
+  "url": "http://www.state.il.us/court/appellatecourt/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

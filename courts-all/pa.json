@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/pa/",
+  "date_modified": "2014-08-01T20:56:27.532000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 367.15,
+  "citation_string": "Pa.",
+  "short_name": "Supreme Court of Pennsylvania",
+  "full_name": "Supreme Court of Pennsylvania",
+  "url": "http://www.pacourts.us/courts/supreme-court/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "S"
+}

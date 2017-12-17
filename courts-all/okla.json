@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/okla/",
+  "date_modified": "2016-09-08T20:40:27.897688Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 366.999,
+  "citation_string": "Okla.",
+  "short_name": "Supreme Court of Oklahoma",
+  "full_name": "Supreme Court of Oklahoma",
+  "url": "http://www.oscn.net/oscn/schome/start.htm",
+  "start_date": "1884-01-01",
+  "end_date": null,
+  "jurisdiction": "S"
+}

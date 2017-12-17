@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/caca/",
+  "date_modified": "2016-06-29T21:21:26.946503Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 205.3,
+  "citation_string": "",
+  "short_name": "California Circuit",
+  "full_name": "Circuit Court for California",
+  "url": "http://www.fjc.gov/history/home.nsf/page/landmark_07.html",
+  "start_date": "1804-10-01",
+  "end_date": "1812-04-30",
+  "jurisdiction": "FD"
+}

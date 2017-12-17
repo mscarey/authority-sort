@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/circtnc/",
+  "date_modified": "2016-06-29T17:11:46.596000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 245.25,
+  "citation_string": "Cir. Ct. N.C.",
+  "short_name": "Circuit Court of North Carolina",
+  "full_name": "U.S. Circuit Court for the District of North Carolina",
+  "url": "http://www.fjc.gov/history/home.nsf/page/courts_circuit_nc.html",
+  "start_date": "1790-06-04",
+  "end_date": "1912-01-01",
+  "jurisdiction": "FD"
+}

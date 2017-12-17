@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/akb/",
+  "date_modified": "2013-08-15T00:32:31Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 157.0,
+  "citation_string": "Bankr. D. Alaska",
+  "short_name": "D. Alaska",
+  "full_name": "United States Bankruptcy Court, D. Alaska",
+  "url": "http://www.akb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

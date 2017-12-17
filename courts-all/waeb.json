@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/waeb/",
+  "date_modified": "2013-08-15T16:52:08Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 197.5,
+  "citation_string": "Bankr. E.D. Wash.",
+  "short_name": "E.D. Washington",
+  "full_name": "United States Bankruptcy Court, E.D. Washington",
+  "url": "http://www.waeb.uscourts.gov/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FB"
+}

@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/delsuperct/",
+  "date_modified": "2013-09-09T20:12:01Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 353.5,
+  "citation_string": "Del. Super. Ct. ",
+  "short_name": "Superior Court of Delaware",
+  "full_name": "Superior Court of Delaware",
+  "url": "http://courts.delaware.gov/Superior/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

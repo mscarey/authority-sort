@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/indctapp/",
+  "date_modified": "2016-09-08T20:33:22.486728Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 360.1,
+  "citation_string": "Ind. Ct. App.",
+  "short_name": "Indiana Court of Appeals",
+  "full_name": "Indiana Court of Appeals",
+  "url": "http://www.in.gov/judiciary/appeals/",
+  "start_date": "1891-01-01",
+  "end_date": null,
+  "jurisdiction": "SA"
+}

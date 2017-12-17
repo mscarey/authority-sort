@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/ca5/",
+  "date_modified": "2014-10-31T01:58:10.879000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": true,
+  "position": 105.0,
+  "citation_string": "5th Cir.",
+  "short_name": "Fifth Circuit",
+  "full_name": "Court of Appeals for the Fifth Circuit",
+  "url": "http://www.ca5.uscourts.gov/",
+  "start_date": "1891-03-03",
+  "end_date": null,
+  "jurisdiction": "F"
+}

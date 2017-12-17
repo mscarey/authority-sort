@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/ncctapp/",
+  "date_modified": "2014-09-08T20:26:43.357000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 366.98,
+  "citation_string": "N.C. Ct. App.",
+  "short_name": "Court of Appeals of North Carolina",
+  "full_name": "Court of Appeals of North Carolina",
+  "url": "http://www.nccourts.org/courts/appellate/appeal/",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

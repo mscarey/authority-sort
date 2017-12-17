@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/texjpml/",
+  "date_modified": "2016-06-18T20:01:59.649000Z",
+  "in_use": true,
+  "has_opinion_scraper": false,
+  "has_oral_argument_scraper": false,
+  "position": 368.5,
+  "citation_string": "Tex. J.P.M.L.",
+  "short_name": "Texas Judicial Panel on Multidistrict Litigation",
+  "full_name": "Texas Judicial Panel on Multidistrict Litigation",
+  "url": "http://www.txcourts.gov/about-texas-courts/multi-district-litigation-panel.aspx",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "SA"
+}

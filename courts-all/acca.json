@@ -1,0 +1,15 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/courts/acca/",
+  "date_modified": "2015-01-09T00:24:40.715000Z",
+  "in_use": true,
+  "has_opinion_scraper": true,
+  "has_oral_argument_scraper": false,
+  "position": 113.3,
+  "citation_string": "A.C.C.A.",
+  "short_name": "Army Court of Criminal Appeals",
+  "full_name": "Army Court of Criminal Appeals",
+  "url": "https://www.jagcnet.army.mil/ACCA",
+  "start_date": null,
+  "end_date": null,
+  "jurisdiction": "FS"
+}
